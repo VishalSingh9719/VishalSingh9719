@@ -1,21 +1,44 @@
-![enter image description here](https://raw.githubusercontent.com/DaniAkash/DaniAkash/master/assets/avatar.png)
+<img
+src="https://raw.githubusercontent.com/DaniAkash/DaniAkash/master/assets/avatar.png" width="200" height="200">
 
-#               Hello World!  👋
+<h1> Hello World! 👋</h1>
+#   I'm VISHAL SINGH
 
-#           I'm VISHAL SINGH
 Hi, I'm Vishal Singh 🌻, a full-stack developer who is dedicated and conscientious with a great passion for technology and software development. 
 Always keen to learn new things with a positive approach. I love to build user interfaces and develop them. 
 I strongly believe a deep user understanding leads to the most innovative products that can create a lot of impact on people's lives.
-
+<h4>Languages and Tools:</h4>
 languages-
 
-![enter image description here](https://camo.githubusercontent.com/92acee6631856371ba17a0dbb1b044948dab754954db0ca32a34b83ebd254392/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352532302d2532336533346632362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)![enter image description here](https://camo.githubusercontent.com/9d07c04bdd98c662d5df9d4e1cc1de8446ffeaebca330feb161f1fb8e1188204/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b)![enter image description here](https://camo.githubusercontent.com/1ed25c5e93c387a74ce11eb6b6a94659235636df2c1b3ae75817b271c83f1be4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f267374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465)![enter image description here](https://camo.githubusercontent.com/268ac512e333b69600eb9773a8f80b7a251f4d6149642a50a551d4798183d621/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642)![enter image description here](https://camo.githubusercontent.com/b13ed67c809178963ce9d538175b02649800772be1ce0cb02da5879e5614e236/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d3536334437433f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465)![enter image description here](https://camo.githubusercontent.com/72e92f69f36703548704a9eeda2a9889c2756b5e08f01a9aec6e658c148d014e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d3445413934423f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465)![enter image description here](https://camo.githubusercontent.com/a1eae878fdd3d1c1b687992ca74e5cac85f4b68e60a6efaa7bc8dc9883b71229/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3333393933333f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f6465646f746a73266c6f676f436f6c6f723d7768697465)![enter image description here](https://camo.githubusercontent.com/7f73136d92799b19be179d1ed87b461120c35ed917c7d5ab59a7606209da7bd3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f457870726573732e6a732d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373266c6f676f436f6c6f723d7768697465)
+<img
+src="https://camo.githubusercontent.com/bea3c45894fe8d810cfef5e0ba759d28033e0a534186ea1c1b71c70e1a57554f/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f77335f68746d6c352f77335f68746d6c352d69636f6e2e737667" width="70" height="50"><img
+src="https://camo.githubusercontent.com/e3ea528306ee25e03662ecd554eefaeb6a571d706d8c765fa0ea3f0c35af7e46/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f77335f6373732f77335f6373732d69636f6e2e737667" width="70" height="50"><img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="70" height="50"><img
+src="https://camo.githubusercontent.com/1b938a8770774c11ebdf27c1c371d173a48c6f0504cc224a8a6b47d5a8a332ac/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6d6f6e676f64622f6d6f6e676f64622d69636f6e2e737667" width="70" height="50"><img
+src="https://camo.githubusercontent.com/faf0782d01ec9e993c2e258fa995f0fc9171a14969d2129bbf5a5816df7e7b62/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f72656163746a732f72656163746a732d69636f6e2e737667" width="70" height="50"><img
+src="https://camo.githubusercontent.com/288cace72126df58aaeaa75627898785885858d54b03cb15ea3353a515642204/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6e6f64656a732f6e6f64656a732d69636f6e2e737667" width="70" height="50"><img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="70" height="50"><img
+src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" width="70" height="50">   <img
+src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="50" height="50">
 
 
-Connect with me-
+I  _**👯  Other interests**_
+```
+I like playing Chess🃏 ,reading books,Watching Ted Talk & solving puzzles🧩.
+```
 
-![enter image description here](https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif)
+### Connect with me:
+<img
+src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="70" height="70">
 
-![(https://www.linkedin.com/in/vishal-singh-146901208/)](https://camo.githubusercontent.com/ac2f62b764ad46d624d45604ed115fb24e28ff6e03b650271ef99bc1ba88b857/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c492d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)![ssinghvishal9719@gmail.com](https://camo.githubusercontent.com/7efb9f06a3dde8ceae35781dc4ca3b1b08f5ffb6b4cb4b8f6ac4fa93efd672c6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d41494c2d2532334431343833362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465)
+<a href="https://www.linkedin.com/in/vishal-singh-146901208/"> <img
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="70" height="50"></a>      
 
-My Portfolio-(https://vishalsinghportfolio-vishalsingh9719.vercel.app/)
+
+<h4>Contact me-</h4>
+
+- 📫  How to reach me:   [ssinghvishal9719@gmail.com](ssinghvishal9719@gmail.com)
+-  📫  My Portfolio:  [https://vishalsinghportfolio-vishalsingh9719.vercel.app/](https://vishalsinghportfolio-vishalsingh9719.vercel.app/)
+- 📫  My Resume:  [View PDF](https://drive.google.com/file/d/15rLqCcBwa4jfFFHM3kcZHA9tfk6gENta/view?usp=sharing)
+   
+💬 Ask me about anything, I am happy to help;
