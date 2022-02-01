@@ -2,13 +2,14 @@
 src="https://raw.githubusercontent.com/DaniAkash/DaniAkash/master/assets/avatar.png" width="200" height="200">
 
 <h1> Hello World! 👋</h1>
+
 #   I'm VISHAL SINGH
 
 Hi, I'm Vishal Singh 🌻, a full-stack developer who is dedicated and conscientious with a great passion for technology and software development. 
 Always keen to learn new things with a positive approach. I love to build user interfaces and develop them. 
 I strongly believe a deep user understanding leads to the most innovative products that can create a lot of impact on people's lives.
 <h4>Languages and Tools:</h4>
-languages-
+
 
 <img
 src="https://camo.githubusercontent.com/bea3c45894fe8d810cfef5e0ba759d28033e0a534186ea1c1b71c70e1a57554f/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f77335f68746d6c352f77335f68746d6c352d69636f6e2e737667" width="70" height="50"><img
